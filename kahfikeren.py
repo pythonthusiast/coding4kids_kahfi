@@ -11,8 +11,8 @@ tampilkan semuanya dengan persis
 
 persiiis spt pelajaran kemarin
 """
-print('siapa namamu')
-nama = input()
+print('--==== PROGRAM MENGHITUNG JUMLAH MAINAN ====--')
+nama = input('siapa namamu: ')
 print('halo', nama, ' apa kabarmu?')
 seketbort = 1
 yoyo = 2
@@ -24,3 +24,4 @@ print('tamiyaku ada =',tamiya)
 print('robot robotanku ada =',robot_robotan)
 jumlah_mainan = seketbort + yoyo + tamiya + robot_robotan
 print('jumlah mainanku ada',jumlah_mainan)
+print('--===== SELESAI =====--')
